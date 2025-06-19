@@ -1,0 +1,9 @@
+torch==2.5.1+cu121
+torchaudio==2.5.1+cu121
+torchvision==0.20.1+cu121
+ctranslate2==4.4.0
+pyannote.audio==0.0.1
+google-generativeai
+nicegui
+pyngrok
+git+https://github.com/m-bain/whisperx.git@v3.3.1
