@@ -19,4 +19,4 @@ Ejecutá `main.py` para lanzar la interfaz con NiceGUI.
 
 ## Créditos
 
-Desarrollado para publicación académica o difusión periodística automatizada.
+Desarrollado por Gabriela Alejandra Matheu, Romeo Picarel y Matias Nahuel Acuña para publicación académica o difusión periodística automatizada.
